@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175308212716",
+    "project_id": "apps-moviles-9da68",
+    "storage_bucket": "apps-moviles-9da68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175308212716:android:4490f86c1f2d865ee258c9",
+        "android_client_info": {
+          "package_name": "com.example.projectappmovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDedDMdObNjkbfZEgPPneM_3JEVvO6lack"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
